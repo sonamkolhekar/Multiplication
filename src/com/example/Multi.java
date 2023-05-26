@@ -13,6 +13,10 @@ public class Multi {
 		 a = 50;
 		 b = 60;
 		System.out.println("Multiplicatiin : " + (a * b));
+		//added from eclips
+		a = 70;
+	    b = 80;
+		System.out.println("Multiplicatiin : " + (a * b));
 		
 	}
 
