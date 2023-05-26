@@ -9,10 +9,11 @@ public class Multi {
 		a = 20;
 	    b = 20;
 		System.out.println("Multiplicatiin : " + (a * b));
-        //Added from github
+        //Added from github central
 		 a = 50;
 		 b = 60;
 		System.out.println("Multiplicatiin : " + (a * b));
+		
 	}
 
 }
