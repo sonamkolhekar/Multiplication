@@ -3,7 +3,12 @@ package com.example;
 public class Multi {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		int a = 10;
+		int b = 10;
+		System.out.println("Multiplicatiin : " + (a * b));
+		a = 20;
+	    b = 20;
+		System.out.println("Multiplicatiin : " + (a * b));
 
 	}
 
