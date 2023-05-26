@@ -17,7 +17,10 @@ public class Multi {
 		a = 70;
 	    b = 80;
 		System.out.println("Multiplicatiin : " + (a * b));
-		
+		//Added from github by abhijeet--this is conflict example
+		int a = 100;
+		int b = 100;
+		System.out.println("Multiplicatiin : " + (a * b));
 	}
 
 }
